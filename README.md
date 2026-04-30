@@ -18,3 +18,6 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5bf7f029-cfdf-495c-bc34-81737bb895ef" />
 
 ---
+# How to use ⬇️
+- open the .algo file above
+- Click it to install on the cTrader platform (for use on the cTrader trading platform)
